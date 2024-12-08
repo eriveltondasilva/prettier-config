@@ -17,3 +17,15 @@ npm i --dev @eriveltonsilva/prettier-config
   "prettier": "@eriveltonsilva/prettier-config"
 }
 ```
+
+```json
+{
+  "bracketSameLine": true,
+  "experimentalTernaries": true,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "semi": false,
+  "singleAttributePerLine": true,
+  "singleQuote": true
+}
+```

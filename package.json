@@ -1,0 +1,16 @@
+{
+  "name": "@eriveltonsilva/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "author": "Erivelton Silva <eriveltondasilva13@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eriveltondasilva/prettier-config"
+  }
+}

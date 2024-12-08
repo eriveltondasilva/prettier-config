@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eriveltondasilva/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
